@@ -1,2 +1,2 @@
-# shot_counter
-Fun little side project to calculate the keep track of your choice of alcoholo
+# Shot Counter
+Fun little side project to keep track of the number of shots you taken of your chosen beverage.
